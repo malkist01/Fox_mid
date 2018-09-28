@@ -13,6 +13,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+#Copyright (C) 2018 OrangeFox Recovery Project
+#Copyright (C) 2018 PitchBlack Recovery Project
 
 add_lunch_combo omni_mido-userdebug
 add_lunch_combo omni_mido-eng
