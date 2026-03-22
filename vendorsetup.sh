@@ -22,7 +22,6 @@ THIS_DEVICE=${BASH_ARGV[2]}
 
 fetch_mithorium_common_repo() {
 	local URL=https://gitlab.com/OrangeFox/device/device_xiaomi_mithorium-common.git;
-	local common=device/xiaomi/mithorium-common;
 	local branch=android-12.1;
 
 	if [ ! -d $common ]; then
