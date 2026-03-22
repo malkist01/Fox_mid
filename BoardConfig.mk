@@ -6,6 +6,8 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 #
 
+LOCAL_PATH := device/xiaomi/mido
+
 # enable ext4
 TARGET_USERIMAGES_USE_EXT4 := true
 
