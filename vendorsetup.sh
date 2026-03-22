@@ -73,7 +73,8 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
 	export FOX_BUGGED_AOSP_ARB_WORKAROUND="1510672800" # Tuesday,   November 14, 2017 15:20:00 GMT
 	export FOX_BASH_TO_SYSTEM_BIN=1
 	export FOX_USE_SPECIFIC_MAGISK_ZIP=~/Magisk/Magisk-v28.1.zip
-
+    export OF_MAINTAINER=Teletubies ☕
+	
 	# dynamic partitions ?
 	export FOX_USE_DYNAMIC_PARTITIONS=1; # always make dynamic builds [unified]
 
